@@ -1,0 +1,5 @@
+{ "rulebase" : [
+    { "rule": "/rest/registry/device", "to": "http://localhost:8080/ag-push/rest/registry/device"}
+],
+    "cookiePath": "/ups-proxy"
+}
