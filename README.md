@@ -1,5 +1,5 @@
-ups-proxy - Fabric8 Gateway for UnifiedPush Server
-==================================================
+Fabric8 Gateway for UnifiedPush Server
+======================================
 
 If you want to run the Unified Push Server behind a firewall, you need to at least make sure that a few of its [RESTful APIs](http://aerogear.org/docs/specs/aerogear-unifiedpush-rest/overview-index.html) are still available on the internet, in oder to have mobile devices registering against it.
 
