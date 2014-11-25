@@ -1,5 +1,6 @@
 { "rulebase" : [
-    { "rule": "/rest/registry/device", "to": "http://localhost:8080/ag-push/rest/registry/device"}
+    { "rule": "/rest/registry/device", "to": "http://localhost:8080/ag-push/rest/registry/device"},
+    { "rule": "/rest/registry/device/{token}", "to": "http://localhost:8080/ag-push/rest/registry/device/{token}"}
 ],
     "cookiePath": "/ups-proxy"
 }
